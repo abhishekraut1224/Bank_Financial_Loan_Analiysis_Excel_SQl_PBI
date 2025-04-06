@@ -1,4 +1,6 @@
-![image](https://github.com/user-attachments/assets/1c5ff01d-1a24-4a71-95bf-6d4ca72b6412)# Bank_Financial_Loan_Analiysis. 
+# Bank_Financial_Loan_Analiysis. 
+
+# What Problm I are solving in this project 
 
 ### A financial institution needed insights into its data to understand better loan performance, applicant behavior, and regional trends. 
 
