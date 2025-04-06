@@ -1,6 +1,6 @@
 # Bank_Financial_Loan_Analiysis. 
 
-# What Problm I are solving in this project 
+# What problem I am solving in this project 
 
 ### A financial institution needed insights into its data to understand better loan performance, applicant behavior, and regional trends. 
 
@@ -17,6 +17,16 @@ Debt-to-income ratios
 
 And breakdowns of good vs bad loans, loan purposes, and regional performance
 
+## My Approach
+Data Cleaning in Excel
+
+KPI Extraction and Validation using SQL
+
+Visualization and interactive dashboard design in Power BI
+
+Insight generation and stakeholder reporting
+
+
 
 ## The Dashboard is divided into 3 parts 
 ### 1) Summary
@@ -32,12 +42,11 @@ And breakdowns of good vs bad loans, loan purposes, and regional performance
 
 ### Slicers
 1) Select Measure -->
-                 Total Amount received
-                 Total Funded Amount
-                 Total Loan Application
-2) Good loan vs Bad Loan
-3) Grade
-4) State
+                 Total Amount received | Total Funded Amount | Total Loan Application |
+   
+3) Good loan vs Bad Loan
+4) Grade
+5) State
 
 #### so the whole dashboard will change for the slicer
 
