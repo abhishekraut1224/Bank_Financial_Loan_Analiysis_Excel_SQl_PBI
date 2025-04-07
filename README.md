@@ -26,7 +26,9 @@ Visualization and interactive dashboard design in Power BI
 
 Insight generation and stakeholder reporting
 
-
+# Important terms about the finance domain that we should know should know
+## 1) DTI 
+--> Debt-to-Income Ratio should be around 30 to 35 %. It is a deciding factor that we should give a loan to the customer or not 
 
 ## The Dashboard is divided into 3 parts 
 ### 1) Summary
